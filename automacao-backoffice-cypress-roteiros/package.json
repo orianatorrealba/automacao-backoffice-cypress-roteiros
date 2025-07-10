@@ -1,0 +1,11 @@
+{
+  "name": "automacao-backoffice-cypress",
+  "version": "1.0.0",
+  "description": "projeto de teste do Backoffice com cypress",
+  "main": "index.js",
+  "author": "Oriana Baca",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
